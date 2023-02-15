@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**jvcki3/jvcki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This place is where I share my progress on my self-taught Automation testing and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently learning on
+    - Basic Software testing methodologies
+    - Automated testing with RobotFramework on Python
+      - 📚 SeleniumLibrary
+      - 📚 RequestsLibrary
+      
+ - ⏳ Next goal
+   - JavaScript
+     - Playwright or Cypress
+   - TypeScript and possibly going for Webdev  
+      
+
+
+
