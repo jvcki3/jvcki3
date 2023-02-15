@@ -13,7 +13,7 @@ This place is where I share my progress on my self-taught Automation testing and
 - ⏳ Next goals
    - JavaScript
      - Playwright & Cypress
-   - TypeScript and possibly going for Webdev  
+   - TypeScript and possibly webdev  
       
 
 
