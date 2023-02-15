@@ -4,16 +4,15 @@
 This place is where I share my progress on my self-taught Automation testing and software development.
 
 
-
 - 🔭 I’m currently learning on
-    - Basic Software testing methodologies
-    - Automated testing with RobotFramework on Python
+   - Basic Software testing methodologies
+   - Automated testing with RobotFramework on Python
       - 📚 SeleniumLibrary
       - 📚 RequestsLibrary
       
- - ⏳ Next goal
+- ⏳ Next goals
    - JavaScript
-     - Playwright or Cypress
+     - Playwright & Cypress
    - TypeScript and possibly going for Webdev  
       
 
